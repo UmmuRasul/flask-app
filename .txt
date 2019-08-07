@@ -1,0 +1,12 @@
+5ed167b5e2f0e82899f27cc65235e0e3
+
+
+
+
+postgresql://postgres:ummu123@localhost/test
+
+'sqlite:///test.db
+
+
+
+
